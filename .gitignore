@@ -2,3 +2,6 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
+.jekyll-cache/
+.jekyll-cache\
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c1/34919fc4b8cd3ae781e18010ebe5d9224829528dd94a32be0844e72bcccc17

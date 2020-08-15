@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+----
+
 ### 2020
 ---
 1. Oyegbile B, Akdogan G, **Karimi M**. Modelling the Dynamics of  ranular Particle Interactions in a Vortex Reactor using a Coupled DPM-KTGF Model. South African Journal of Chemical Engineering 2020; 34:31-46
