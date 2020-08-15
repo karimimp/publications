@@ -2,16 +2,15 @@
 layout: default
 ---
 
-
 ----
 
 ### 2020
 ---
-1. Oyegbile B, Akdogan G, **Karimi M**. Modelling the Dynamics of  ranular Particle Interactions in a Vortex Reactor using a Coupled DPM-KTGF Model. South African Journal of Chemical Engineering 2020; 34:31-46
+1. Oyegbile B, Akdogan G, <ins>Karimi M</ins>. **Modelling the Dynamics of  ranular Particle Interactions in a Vortex Reactor using a Coupled DPM-KTGF Model**. South African Journal of Chemical Engineering 2020; 34:31-46 [https://doi.org/10.1016/j.sajce.2020.05.008](https://doi.org/10.1016/j.sajce.2020.05.008)
 
-2. Nasirimoghaddam, S., Mohebbi, A., **Karimi, M.**, Reza Yarahmadi, M. Assessment of pH-responsive nanoparticles performance on laboratory column flotation cell applying a real ore feed. 	International Journal of Mining Science and Technology. 2020; 30(2):197-205. https://doi.org/10.1016/j.ijmst.2020.01.001
+2. Nasirimoghaddam, S., Mohebbi, A., <ins>Karimi, M.</ins>, Reza Yarahmadi, M. **Assessment of pH-responsive nanoparticles performance on laboratory column flotation cell applying a real ore feed**. 	International Journal of Mining Science and Technology. 2020; 30(2):197-205. [https://doi.org/10.1016/j.ijmst.2020.01.001](https://doi.org/10.1016/j.ijmst.2020.01.001)
 
-3. **Karimi M**, Andersson R. Stochastic simulation of droplet breakup in turbulence. Chem Eng J. 2020;380:122502. doi:10.1016/j.cej.2019.122502
+3. <ins>Karimi, M</ins>, Andersson R. **Stochastic simulation of droplet breakup in turbulence**. Chem Eng J. 2020;380:122502. [doi:10.1016/j.cej.2019.122502](doi:10.1016/j.cej.2019.122502)
 
 ### 2019
 ---
